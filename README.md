@@ -5,7 +5,6 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |Sirket Adi|Sure|
 |---|---|---|
 |   |[Adphorus](https://adphorus.com)|-|
-|   |[Akinon](https://www.akinon.com)|-|
 |   |[Biges](https://biges.com)|-|
 |   |[Demirören Teknoloji](https://www.demirorenteknoloji.com/)|-|
 |   |[Depauli Teknoloji](https://herrenausstatter.de)|-|
@@ -13,6 +12,7 @@ Alfabetik sıralamaya göre listelenmiştir
 |   |[Fideyo](https://fideyo.com)|-|
 |   |[GittiGidiyor](https://gittigidiyor.com)|-|
 |   |[Hepsiburada](https://hepsiburada.com)|-|
+|   |[IBM](https://www.ibm.com/tr-tr)|-|
 |   |[Jotform](https://www.jotform.com/)|-|
 |   |[KolayIK](https://kolayik.com)|-|
 |   |[Mobven](https://mobven.com)|-|
